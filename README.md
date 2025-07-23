@@ -1,4 +1,4 @@
-# Sales Data Pipeline Project
+# Sales Data Pipeline 
 >  Built by **Gollapudi Poojith** for Flipkart Task-1  
 > 🗓 Last Updated: **17 July 2025**
 
@@ -103,12 +103,16 @@ class Config:
     4. **Top Region :** North ($180 revenue)
 ---
 ##  Sample Visuals
-<img width="600" src="https://github.com/user-attachments/assets/685b6c03-aeb7-4474-912d-dd271b5169a5" alt="Top Products Visualization"> />
-<img width="600" src="https://github.com/user-attachments/assets/60a1ab98-8e7c-4d70-975d-ef75c7aa3608" alt="Category Revenue Breakdown">
-<img width="600" src="https://github.com/user-attachments/assets/9d3f5996-6f5e-4b13-972d-ec5e1647cb45" alt="Regional Sales Pie Chart">
-<img width="600" src=""C:\Users\23jr1\OneDrive\Desktop\outputs\screenshot1.jpg" alt="Monthly Sales Trend">
-
-##  Error Handling
+-  Top Selling Products 
+<img width="600" src="https://github.com/Poojitha680/Data_Pipelines/blob/main/screenshot1.jpg?raw=true" alt="Top Products Visualizations">
+-  Revenue by Category 
+<img width="600" src="https://github.com/Poojitha680/Data_Pipelines/blob/main/screenshot2.jpg?raw=true" alt="Regional Sales Pie Chart">
+-  Revenue Distribution by Region
+<img width="600" src="https://github.com/Poojitha680/Data_Pipelines/blob/main/screenshot3.jpg?raw=true" alt="Revenue Distribution by Region">
+-  Monthly Sales Trend
+<img width="600"
+src="https://github.com/Poojitha680/Data_Pipelines/blob/main/screenshot4.jpg?raw=true" alt="Monthly Sales Data">
+## Error Handling
 
 The pipeline uses specific exceptions:
 - Handles missing or corrupt files gracefully
@@ -124,3 +128,8 @@ This project is under Git version control:
 - Code is production-ready and AI-clean
 
 ---
+
+##  Author
+
+**Gollapudi Poojitha**  
+*Flipkart Data Pipeline Task-1 Project*
