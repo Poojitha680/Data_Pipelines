@@ -14,6 +14,12 @@ A complete end-to-end solution for sales data integration, analysis, and visuali
 
 This project implements a **custom sales data pipeline** that ingests, cleans, analyzes, and visualizes sales-related data from multiple sources: **CSV, JSON, and Excel**.
 
+It is designed to be:
+-  Modular  
+-  Insight-rich  
+-  Visualization-capable  
+-  Extensible for large-scale or real-time pipelines  
+
 ---
 
 ##  File Structure
@@ -112,7 +118,8 @@ class Config:
 -  Monthly Sales Trend
 <img width="600"
 src="https://github.com/Poojitha680/Data_Pipelines/blob/main/screenshot4.jpg?raw=true" alt="Monthly Sales Data">
-## Error Handling
+##  Error Handling
+
 
 The pipeline uses specific exceptions:
 - Handles missing or corrupt files gracefully
